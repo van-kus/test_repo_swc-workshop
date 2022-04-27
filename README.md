@@ -7,3 +7,6 @@ now we are editing the file in the web-based interface to see what happens then:
 - dot symbol from a -
 - item 2
 # onehash
+
+# abstract
+now we add sth on the local computer after having pulled the latest version from github
