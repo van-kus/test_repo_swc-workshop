@@ -9,4 +9,8 @@ now we are editing the file in the web-based interface to see what happens then:
 # onehash
 
 # abstract
+
 now we add sth on the local computer after having pulled the latest version from github
+
+# conclusions
+we try to to an intended error by parallely changing sth in web interface and locally 
