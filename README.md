@@ -10,3 +10,5 @@ now we are editing the file in the web-based interface to see what happens then:
 
 # abstract
 now we add sth on the local computer after having pulled the latest version from github
+# exp lines
+- we are intending to solve an error
