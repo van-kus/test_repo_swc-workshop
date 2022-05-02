@@ -17,8 +17,7 @@ now we add sth on the local computer after having pulled the latest version from
 we try to to an intended error by parallely changing sth in web interface and locally 
 
 # exp lines
-<<<<<<< HEAD
+
 - we are intending to solve an error local computer
-- we are intending to solve an error web prompt
->>>>>>> ee7c38ead82b9f870a30ea1980b3915db6bed788
+
 
